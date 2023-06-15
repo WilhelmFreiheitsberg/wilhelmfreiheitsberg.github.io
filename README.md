@@ -1,11 +1,2 @@
 # http://wilhelmfreiheitsberg.github.io
-About wilhelm
-
-404.html
-
-  "names": {
-    "wilhelm": "npub15l8sfm30uwns8qrcajs99narc4ex65ujt5sky4zx3dpjhnnk2szsqu40n5"
-  },
-  "404": { "404" 
-  }
-}
+About Wilhelm von Freiheitsberg
