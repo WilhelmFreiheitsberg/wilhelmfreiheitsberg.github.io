@@ -1,5 +1,5 @@
 # http://wilhelmfreiheitsberg.github.io
-About wilhelmfreiheitsberg
+About wilhelm
 
 404.html
 
