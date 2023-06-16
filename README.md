@@ -1,6 +1,6 @@
-Certificate of Authenticity by Wilhelm von Freiheitsberg
+#### Certificate of Authenticity by Wilhelm von Freiheitsberg
 
------BEGIN PGP SIGNED MESSAGE-----
+`-----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
 This NIP-05 is the true identity of Wilhelm von Freiheitsberg
@@ -28,4 +28,4 @@ rLGJBm4YMgcEwJ4CzTexHMdRw9272Xh0rIEa6NJ56jVozNAYfpdF9EYFS4QTitTf
 2D1pR30Sxdtg2OilT+hghjzdGGwWdWiIPyZZyEBBbxIrO+7ry4GlgQZySLNSNzP+
 wYtWcIL2
 =lICO
------END PGP SIGNATURE-----
+-----END PGP SIGNATURE-----`
