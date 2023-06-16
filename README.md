@@ -1,12 +1,11 @@
-# http://wilhelmfreiheitsberg.github.io
 Certificate of Authenticity by Wilhelm von Freiheitsberg
 
 -----BEGIN PGP SIGNED MESSAGE-----
 Hash: SHA512
 
-I sign this NIP-05 credential as the true identity of Wilhelm von Freiheitsberg
+This NIP-05 is the true identity of Wilhelm von Freiheitsberg
 
-Eu assino essa credencial NIP-05 como verdadeira identidade de Wilhelm von Freiheitsberg
+Essa NIP-05 é a verdadeira identidade de Wilhelm von Freiheitsberg
 
 {
   "names": {
@@ -14,18 +13,19 @@ Eu assino essa credencial NIP-05 como verdadeira identidade de Wilhelm von Freih
   }
 }
 
-Link PGP Public Key -> https://gist.github.com/WilhelmFreiheitsberg/ceaeb5d698bd2c7e34a361e20d8d7761
+Link PGP Public Key:
+https://gist.github.com/WilhelmFreiheitsberg/ceaeb5d698bd2c7e34a361e20d8d7761
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEaF/mEciRk69FfvCpK5f+LpA02iEFAmSMAVIACgkQK5f+LpA0
-2iEjOwwAgCHu4+WQHJ51oEi6BDGVklpdTRuyrlcBu/fRanWklrrshfL1pBeUIpQE
-jMbY/OxDbz8GyErL/5xf4pAFvRJq8S4lXHDxosm2lvNb3EFM6pO/T/SNukvOW3Va
-rjBZ4jubu5QH0VUvV7alDUgI+kYC0wQ/giJEOd4XuXE/qgzhqWZ4EDZ+A040Acxh
-x9J5IKrUyLAIw4jk3k6D2LKxKuLDLfDRIxa3FFH7EwPQCzvLu5vX+Xd/Ml8wbGAI
-K0NVcKuCA1h/XE2J76QLfZUSBzKhNdBoBwXAKI+ghCa4BG+0wYxgLjJlJyHEdFox
-OP003TSlynyI2QZpaKx90OdKsPttz9M+37wqADHmfsbXbaTeRHYBnyF0rNXt1GHt
-MCUVeyzOk4jvTdYlbOtNFEaHpENDRgneaEV8D1WkCi3gf5BU0imdn48ErVxMwFH8
-LTvEGpo/IhL6Btx05EPCLTPPseelnpdW/2bJA0XF94GnjYbVKoGslq5XzSyDUFhV
-nnKw/veu
-=wpQR
+iQGzBAEBCgAdFiEEaF/mEciRk69FfvCpK5f+LpA02iEFAmSMBBAACgkQK5f+LpA0
+2iHzXgv/bj4XqwhMdavb3kKFR4WDGb3jmI9HSPgxxqEcvm0fLX/gH3l7w0Z62vIL
+zlrezApev9w1h31+LTJFobFOO34RWGipfVNgWTOxzoCZSwUQlfTQKexb3VnpeD59
+GmoTpFnVZa8g/RNQpYGXqyvj/u9BVrRgTDu3OYzUpWVl/34BBNZ/8oHmg+cu9+9b
+NYh3TNUU5Eq0UYjRBka4aKIOtB7o7u/nTr6QmEsGz1SAyAw5dOXRtNajymrsrU39
+2jCE3TsownUXzyzsI8+WfqlHwUaSXrLC4yx0UWw6h20kuKqafqrPJ4x6D+CF1twX
+0AR0Z4N/gFqStLS8JvgFMWJ7gWEGLBsV+YLPkOxFcIpByQ7i0sYDmDz0DnC3CmpA
+rLGJBm4YMgcEwJ4CzTexHMdRw9272Xh0rIEa6NJ56jVozNAYfpdF9EYFS4QTitTf
+2D1pR30Sxdtg2OilT+hghjzdGGwWdWiIPyZZyEBBbxIrO+7ry4GlgQZySLNSNzP+
+wYtWcIL2
+=lICO
 -----END PGP SIGNATURE-----
