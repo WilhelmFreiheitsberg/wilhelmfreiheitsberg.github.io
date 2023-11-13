@@ -2,7 +2,7 @@
 
 ```
 -----BEGIN PGP SIGNED MESSAGE-----
-Hash: SHA512
+Hash: SHA256
 
 This NIP-05 is the true identity of Wilhelm von Freiheitsberg
 
@@ -20,19 +20,20 @@ Essa NIP-05 é a verdadeira identidade de Wilhelm von Freiheitsberg
 }
 
 Link PGP Public Key:
-https://gist.github.com/WilhelmFreiheitsberg/ceaeb5d698bd2c7e34a361e20d8d7761
+https://keys.openpgp.org/search?q=wilhelmfreiheitsberg%40protonmail.com
+https://gist.github.com/WilhelmFreiheitsberg/585d96537600862b39f10f163268c932
 -----BEGIN PGP SIGNATURE-----
 
-iQGzBAEBCgAdFiEEaF/mEciRk69FfvCpK5f+LpA02iEFAmSNetUACgkQK5f+LpA0
-2iHx9gv9FoouZ5JvI/HQI1MCwIuYq6h9x1J7+pzhXF56fb/lvUhDydHnsQEKsMYC
-fLhCWf72rAxd0Daq7JGPFI2r42KXzXbbo6cRmLBLot2no3i7krtnstGd/4FD62RQ
-vfItmUsAGj9sbNYxYC3btR1yXFFuBHPAUxu7FL3jeAKxDbfV1PHnAE+mb3nPWDPD
-8WYF3dFLezdR+qPbTPI7mWD6xkWR59VfyfMIvPfvy9Rbeuwm3lnodj9TATzvQ9w7
-NwtG6XOFgY6MVgx61tLhN7Xy1NNswTw20A+A+ZkxdDrEdfsnVUedncp4I/y7B0al
-59iZyYBP6l9cl83EkbcILXDnq7Y0g1CILcG3JGeYIBHCJ0dgiVrsvOLqd338b+nT
-iwP1HQ1ydBunugX3PvKSILeoG3bgKYREwnKD2jJYfNjbemj24hXcJHa9aeGZzBGx
-arYl7K43B/uUj/owd0rT4RSU97ixEUHEDCuu3xvFElmY6ZeHJ1UjB8StcETiVIiT
-svn46kAT
-=gBI9
+iQGzBAEBCAAdFiEEKvjRonIrt8BCKNNlEKNaTtu1J5MFAmVSezcACgkQEKNaTtu1
+J5PmjAwAz/e5CXXAuKmHQu1HfGblS/CxGiLaSATnQjC6j+SqgZ6hENNViBGE9V6E
+1T5bbg+nJVekxzh+a3T7JCzBgcv+dV0AyVM+PZltJfIUyxPIlTYUkk8/IQzPaxCf
+ZPXK4sGxH3VFlWGJCrzxHPOWKxSz8risTCzQtfcX/qjrZxKy9FuhgHNO9AsRQLp4
+gwfW9wQayXFQPn8y5MmUHUOq4uNUMeSCNywTHaq785G1bi6gUUo6gUPCaOG5Gb18
+aRZ7qqm0Fn3GYwMrM8QaA5xg23KOph94gkSqa3TxmJq/iiCXLV4fu2yT+bEBNztH
+67hRbl9Hg8xYIw9viQR39xR7hCiIm/tqJ0UqufPOMXJuJLQ0KArOhrRLGxwqOxCp
+h7wiqYqL37yk+01m4sL3NepduvSyO1IwnY6Kecv0V2QYSKrvG1re+Z0YG7qZ891S
+RMdsNMvO1o8pedllhX2a5S2g5lWsouQB8tIW2M5isVGUWpOCsZGGM5hWu9sOOC+f
+u0kZMj8G
+=kkIw
 -----END PGP SIGNATURE-----
 ```
