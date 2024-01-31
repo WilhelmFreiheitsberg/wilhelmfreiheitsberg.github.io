@@ -1,0 +1,56 @@
+=================================================================
+https://keybase.io/wilhelmvon
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://wilhelmfreiheitsberg.github.io
+  * I am wilhelmvon (https://keybase.io/wilhelmvon) on keybase.
+  * I have a public key ASAO1K2zBf9TpOJT8f57Gj5nino5WkPxtfVH1ic6b12itgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120e827bfde9a625058a4ed8ac517650b9a03de01c65afa035a026dcd2b9dd446120a",
+      "host": "keybase.io",
+      "kid": "01200ed4adb305ff53a4e253f1fe7b1a3e678a7a395a43f1b5f547d6273a6f5da2b60a",
+      "uid": "19f287ce60cff3714e3389d77715fd19",
+      "username": "wilhelmvon"
+    },
+    "merkle_root": {
+      "ctime": 1698745667,
+      "hash": "6686b48b04b31441069fe0c53f06d1fe8ff566b30591b6ad628423087abc9c572ee7fc814d640b070da6c664edf34334f8a2ca6a65b797797898a908ddb892e0",
+      "hash_meta": "06209f6357016baebc584d7ff729237b49f0d6eae988561113b99402e5ab74c0",
+      "seqno": 25090841
+    },
+    "service": {
+      "entropy": "tTk0IC3KqsSy4DDkvr/o6LW+",
+      "hostname": "wilhelmfreiheitsberg.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.2.2"
+  },
+  "ctime": 1698745784,
+  "expire_in": 504576000,
+  "prev": "4abadf88547351a4ddd7f01242f35978875fa7604dfde45a15c19e3a4719d1dd",
+  "seqno": 37,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgDtStswX/U6TiU/H+exo+Z4p6OVpD8bX1R9YnOm9dorYKp3BheWxvYWTESpcCJcQgSrrfiFRzUaTd1/ASQvNZeIdfp2BN/eRaFcGeOkcZ0d3EIPiBau2KTngL6wlUurisX8/ggtmHmzTOOeDEEIvY0vQiAgHCo3NpZ8RAsudkNmSi9NeWVsJk4bvoWJ3PPxubSSHuzPWCRgwBMqVYmLu3+JaKE1c2hDV2FnwxBmUO5EbTCbsvsRdvbKWgBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ8uPEn3z4KV8BMZLywuQcC+5aY5fQhYjC0/RuZ3WiXzo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/wilhelmvon
+
+==================================================================
